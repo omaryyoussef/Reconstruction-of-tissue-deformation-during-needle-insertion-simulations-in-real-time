@@ -1,2 +1,2 @@
-# Reconstruction-of-tissue-deformation-during-needle-insertion-simulations-in-real-time
+# Reconstruction of tissue deformation during needle insertion simulations in real-time
 Accurate reconstruction and visualization of tissue deformation during needle insertion simulations using a 3DUNET on volumetric data that is created based on the finite element method. The data-set is very large, about 20GBs. If you'd like to use it please message me directly on linkedin: https://www.linkedin.com/in/omar-youssef-29b64b85/
